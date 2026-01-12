@@ -1,0 +1,7 @@
+{
+  "name": "Goyal Cloth Store",
+  "description": "A premium fashion storefront for Goyal Cloth Store, featuring AI-powered style assistance and a robust management dashboard for kids, men, and women's fashion in modern and traditional styles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
